@@ -1,0 +1,3 @@
+com\example\productor_ubicaciones\config\RabbitMQConfig.class
+com\example\productor_ubicaciones\ProductorUbicacionesApplication.class
+com\example\productor_ubicaciones\controller\UbicacionesController.class

@@ -1,0 +1,3 @@
+com\example\productor_horarios\ProductorHorariosApplication.class
+com\example\productor_horarios\config\RabbitMQConfig.class
+com\example\productor_horarios\controller\HorariosController.class
