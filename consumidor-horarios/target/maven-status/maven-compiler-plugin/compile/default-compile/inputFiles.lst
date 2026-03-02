@@ -1,4 +1,7 @@
-C:\Users\ariel\Desktop\Cloud 1\Sumativa2\Cloud-1\consumidor-horarios\src\main\java\com\example\consumidor_horarios\config\RabbitMQConfig.java
+C:\Users\ariel\Desktop\Cloud 1\Sumativa2\Cloud-1\consumidor-horarios\src\main\java\com\example\consumidor_horarios\config\KafkaConsumerConfig.java
 C:\Users\ariel\Desktop\Cloud 1\Sumativa2\Cloud-1\consumidor-horarios\src\main\java\com\example\consumidor_horarios\ConsumidorHorariosApplication.java
 C:\Users\ariel\Desktop\Cloud 1\Sumativa2\Cloud-1\consumidor-horarios\src\main\java\com\example\consumidor_horarios\controller\HorariosQueryController.java
+C:\Users\ariel\Desktop\Cloud 1\Sumativa2\Cloud-1\consumidor-horarios\src\main\java\com\example\consumidor_horarios\dto\HorarioDTO.java
+C:\Users\ariel\Desktop\Cloud 1\Sumativa2\Cloud-1\consumidor-horarios\src\main\java\com\example\consumidor_horarios\model\HorarioEntity.java
+C:\Users\ariel\Desktop\Cloud 1\Sumativa2\Cloud-1\consumidor-horarios\src\main\java\com\example\consumidor_horarios\repository\HorarioRepository.java
 C:\Users\ariel\Desktop\Cloud 1\Sumativa2\Cloud-1\consumidor-horarios\src\main\java\com\example\consumidor_horarios\service\HorariosConsumer.java

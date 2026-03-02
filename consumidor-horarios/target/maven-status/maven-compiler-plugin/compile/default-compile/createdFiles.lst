@@ -1,4 +1,2 @@
-com\example\consumidor_horarios\service\HorariosConsumer.class
-com\example\consumidor_horarios\config\RabbitMQConfig.class
-com\example\consumidor_horarios\ConsumidorHorariosApplication.class
 com\example\consumidor_horarios\controller\HorariosQueryController.class
+com\example\consumidor_horarios\ConsumidorHorariosApplication.class

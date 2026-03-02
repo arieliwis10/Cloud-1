@@ -1,6 +1,4 @@
-com\example\consumidor_ubicaciones\config\RabbitMQConfig.class
 com\example\consumidor_ubicaciones\repository\UbicacionRepository.class
 com\example\consumidor_ubicaciones\model\UbicacionEntity.class
 com\example\consumidor_ubicaciones\service\UbicacionesConsumer.class
 com\example\consumidor_ubicaciones\ConsumidorUbicacionesApplication.class
-com\example\consumidor_ubicaciones\controller\UbicacionesQueryController.class

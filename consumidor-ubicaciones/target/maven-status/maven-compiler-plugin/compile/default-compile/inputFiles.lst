@@ -1,6 +1,8 @@
-C:\Users\ariel\Desktop\Cloud 1\Sumativa2\Cloud-1\consumidor-ubicaciones\src\main\java\com\example\consumidor_ubicaciones\config\RabbitMQConfig.java
+C:\Users\ariel\Desktop\Cloud 1\Sumativa2\Cloud-1\consumidor-ubicaciones\src\main\java\com\example\consumidor_ubicaciones\config\KafkaConsumerConfig.java
+C:\Users\ariel\Desktop\Cloud 1\Sumativa2\Cloud-1\consumidor-ubicaciones\src\main\java\com\example\consumidor_ubicaciones\config\KafkaProducerConfig.java
 C:\Users\ariel\Desktop\Cloud 1\Sumativa2\Cloud-1\consumidor-ubicaciones\src\main\java\com\example\consumidor_ubicaciones\ConsumidorUbicacionesApplication.java
-C:\Users\ariel\Desktop\Cloud 1\Sumativa2\Cloud-1\consumidor-ubicaciones\src\main\java\com\example\consumidor_ubicaciones\controller\UbicacionesQueryController.java
+C:\Users\ariel\Desktop\Cloud 1\Sumativa2\Cloud-1\consumidor-ubicaciones\src\main\java\com\example\consumidor_ubicaciones\dto\HorarioDTO.java
+C:\Users\ariel\Desktop\Cloud 1\Sumativa2\Cloud-1\consumidor-ubicaciones\src\main\java\com\example\consumidor_ubicaciones\dto\UbicacionDTO.java
 C:\Users\ariel\Desktop\Cloud 1\Sumativa2\Cloud-1\consumidor-ubicaciones\src\main\java\com\example\consumidor_ubicaciones\model\UbicacionEntity.java
 C:\Users\ariel\Desktop\Cloud 1\Sumativa2\Cloud-1\consumidor-ubicaciones\src\main\java\com\example\consumidor_ubicaciones\repository\UbicacionRepository.java
 C:\Users\ariel\Desktop\Cloud 1\Sumativa2\Cloud-1\consumidor-ubicaciones\src\main\java\com\example\consumidor_ubicaciones\service\UbicacionesConsumer.java
